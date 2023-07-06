@@ -1,6 +1,6 @@
 ### Olá 👋, meu nome é Lucas.
 #### Desenvolvedor Full Stack.
-Desenvolvedor FullStack e estudante de Análise e desenvolvimento de Sistemas.
+Desenvolvedor Full Stack e estudante de Análise e desenvolvimento de Sistemas.
 
 Skills: EXPRESS / REACT / JS / JAVA / HTML / CSS 
 
