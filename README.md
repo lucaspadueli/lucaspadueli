@@ -4,6 +4,9 @@ Desenvolvedor Full Stack e estudante de Análise e desenvolvimento de Sistemas.
 
 Skills: EXPRESS / REACT / JS / JAVA / HTML / CSS 
 
+<br>
+  
+  ![Snake animation](https://github.com/lucaspadueli/lucaspadueli/blob/output/github-contribution-grid-snake.svg)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lucaspadueli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-padueli-a57822272/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/capella.lucas__/)  
