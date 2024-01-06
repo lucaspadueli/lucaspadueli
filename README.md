@@ -1,12 +1,12 @@
-### Olá 👋, meu nome é Lucas.
-#### Desenvolvedor Full Stack.
-Desenvolvedor Full Stack e estudante de Análise e desenvolvimento de Sistemas.
+Hello 👋, I'm Lucas.
+Full Stack Developer.
+A passionate Full Stack Developer and Systems Analysis and Development student.
 
-Skills: EXPRESS / REACT / JS / JAVA / HTML / CSS 
+Skills: Express, React, JavaScript, TypeScript, Java, HTML, CSS
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lucaspadueli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-padueli-a57822272/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/capella.lucas__/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/lucaspadueli)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-padueli-a57822272/)  [<img 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspadueli)](https://github.com/anuraghazra/github-readme-stats)
 
