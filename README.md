@@ -1,14 +1,3 @@
-Hello 👋, I'm Lucas.
-Full Stack Developer.
-A passionate Full Stack Developer and Systems Analysis and Development student.
+Cientista de Dados com experiência em projetos de churn e segmentação de clientes, utilizando técnicas avançadas de Machine Learning, incluindo algoritmos de regressão, classificação e clustering. Especialista no processamento e análise de grandes volumes de dados para a geração de insights acionáveis. Proficiente em Python, SQL e Power BI para visualização e interpretação de dados complexos.
 
-Skills: Express, React, JavaScript, TypeScript, Java, HTML, CSS
-
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/lucas-padueli-dev/) 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspadueli)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+Data Scientist with experience in churn and customer segmentation projects, utilizing advanced Machine Learning techniques, including regression, classification, and clustering algorithms. Specialist in processing and analyzing large volumes of data to generate actionable insights. Proficient in Python, SQL, and Power BI for visualizing and interpreting complex data.
